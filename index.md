@@ -14,6 +14,6 @@ Since there are only 3 features that are important for predicting churn, we can 
 
 The customers that left (red dots) are primarily in the Month-to-Month plot, especially at low months of tenure and/or high monthly charges. This visualization supports the decision tree modelling. The visualization also shows a number of red dots for customers on a one-year contract with high monthly charges. 
 
-
+An interesting extension of this project would be to test how different types of intervention may reduce customer churn. 
 
 For more details, check out the [Full Report and Jupyter notebook](https://github.com/MarielleSP/Churn-DecisionTree/blob/main/Churn-DecisionTree.ipynb).
