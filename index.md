@@ -2,7 +2,7 @@
 
 *Churn* is the measure of how many customers stop using a product. Loss of customers generally results in loss of profit for a business. In contrast, "[increasing customer retention rates by 5% increases profits by 25% to 95%.](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)" A model that identifies customers who are likely to churn could enable early intervention to prevent loss of business. 
 
-This study uses data on [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn), which has 19 features describing customer demographics, subscription services, and account information. By using univariate analysis of categorical and continuous data to eliminate features that do not correlate to churn, the number of features is reduced. The most important 8 features are used to build a decision tree. 
+This study uses data on [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn), which has 19 features describing customer demographics, subscription services, and account information. First, the number of features is reduced by using univariate analysis. Then, the most important 8 features are used to build a decision tree. 
 
 ![Static png image for display](tree3.png)
 
