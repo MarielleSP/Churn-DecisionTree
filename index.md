@@ -4,10 +4,10 @@
 
 This study uses data on [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn), which has 19 features describing customer demographics, subscription services, and account information. By using univariate analysis of categorical and continuous data to eliminate features that do not correlate to churn, the number of features is reduced to 8. These features are used to build a decision tree. 
 
-![Static png image for display](./images/tree3.PNG)
+![Static png image for display](tree3.PNG)
 
 
 
-![Static png image for display](./images/2Dscatter.PNG)
+![Static png image for display](2Dscatter.PNG)
 
 For more details, check out the [Full Report and Jupyter notebook](https://github.com/MarielleSP/Churn-DecisionTree/blob/main/Churn-DecisionTree.ipynb).
